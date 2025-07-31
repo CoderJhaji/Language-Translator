@@ -13,21 +13,6 @@ This is a simple language translator web application built using pure HTML, CSS,
 - Supports a wide range of languages, enabling users to translate to and from different language pairs.
 - Minimalistic and lightweight, ensuring fast loading times and smooth performance.
 
-## How to Use
-
-1. Clone the repository to your local machine:
-
-```bash
-git clone https://github.com/Venkateeshh/Js-Language-Translator.git
-```
-
-2. Open the `index.html` file in your web browser.
-
-3. Enter the text you want to translate in the input field.
-
-4. Select the source language and target language from the provided drop-down menus.
-
-5. Click the "Translate" button to get the translated text.
 
 ## Demo
 
@@ -39,6 +24,6 @@ If you find any issues with the application or have suggestions for improvement,
 
 ## About the Author
 
-This language translator web application is developed and maintained by [Venkateeshh](https://github.com/Venkateeshh). I am a passionate web developer with a keen interest in building useful and innovative projects using various web technologies.
+This language translator web application is developed and maintained by Shalini Jha. I am a passionate web developer with a keen interest in building useful and innovative projects using various web technologies.
 
 Thank you for checking out this project! If you find it helpful, don't forget to give it a star and share it with others. Happy translating!
