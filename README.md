@@ -1,5 +1,7 @@
 # Language Translator Web Application
 
+<img width="1883" height="994" alt="LTProject" src="https://github.com/user-attachments/assets/4bc60ee8-0bf0-4e57-86b4-f62f488a5386" />
+
 
 ## Overview
 
@@ -13,6 +15,10 @@ This is a simple language translator web application built using pure HTML, CSS,
 - Supports a wide range of languages, enabling users to translate to and from different language pairs.
 - Minimalistic and lightweight, ensuring fast loading times and smooth performance.
 
+
+## Demo
+
+For a live demonstration of the language translator web application, you can visit the following link: [Language Translator Demo](https://coderjhaji.github.io/Language-Translator/)
 
 
 ## Feedback and Contributions
