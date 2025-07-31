@@ -14,9 +14,6 @@ This is a simple language translator web application built using pure HTML, CSS,
 - Minimalistic and lightweight, ensuring fast loading times and smooth performance.
 
 
-## Demo
-
-For a live demonstration of the language translator web application, you can visit the following link: [Language Translator Demo](https://venkateeshh.github.io/Js-Language-Translator/)
 
 ## Feedback and Contributions
 
